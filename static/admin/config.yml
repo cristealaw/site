@@ -21,6 +21,100 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
 
+  - name: "practice-areas"
+    label: "Practice Areas"
+    files:
+      - file: "src/pages/practice-areas/maritime-law-in-romania.md"
+        label: "Maritime Law"
+        name: "maritime-law-in-romania"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/practice-areas/transport-law-in-romania.md"
+        label: "Transport Law"
+        name: "transport-law-in-romania"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/practice-areas/river-law-in-romania.md"
+        label: "River Law"
+        name: "river-law-in-romania"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/practice-areas/corporate-law-in-romania.md"
+        label: "Corporate Law"
+        name: "corporate-law-in-romania"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/practice-areas/securities-law-in-romania.md"
+        label: "Securities Law"
+        name: "securities-law-in-romania"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/practice-areas/insurance-law-in-romania.md"
+        label: "Insurance Law"
+        name: "insurance-law-in-romania"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/practice-areas/insolvency-law-in-romania.md"
+        label: "Insolvency Law"
+        name: "insolvency-law-in-romania"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/practice-areas/civil-law-in-romania.md"
+        label: "Civil Law"
+        name: "civil-law-in-romania"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/practice-areas/taxation-law-in-romania.md"
+        label: "Taxation Law"
+        name: "taxation-law-in-romania"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/practice-areas/energy-law-in-romania.md"
+        label: "Energy Law"
+        name: "energy-law-in-romania"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/practice-areas/private-international-law-in-romania.md"
+        label: "Private International Law"
+        name: "private-international-law-in-romania"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/practice-areas/arbitration-in-romania.md"
+        label: "Arbitration"
+        name: "arbitration-in-romania"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/practice-areas/maritime-law-in-romania.md"
+        label: "Maritime Law"
+        name: "maritime-law-in-romania"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
     files:
@@ -40,13 +134,6 @@ collections:
       - file: "src/pages/about/index.md"
         label: "About"
         name: "about"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
-      - file: "src/pages/practice-areas/maritime-law-in-romania.md"
-        label: "Maritime Law"
-        name: "maritime-law-in-romania"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Title", name: "title", widget: "string"}
