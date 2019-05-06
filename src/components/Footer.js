@@ -31,26 +31,6 @@ const Footer = class extends React.Component {
                         About
                       </Link>
                     </li>
-                    <li>
-                      <Link className="navbar-item" to="/products">
-                        Products
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact/examples">
-                        Form Examples
-                      </Link>
-                    </li>
-                    <li>
-                      <a
-                        className="navbar-item"
-                        href="/admin/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        Admin
-                      </a>
-                    </li>
                   </ul>
                 </section>
               </div>
@@ -58,15 +38,26 @@ const Footer = class extends React.Component {
                 <section>
                   <ul className="menu-list">
                     <li>
-                      <Link className="navbar-item" to="http://www.maritimelaw.ro">
+                      <a className="navbar-item" href="http://www.maritimelaw.ro">
                         Romanian Maritime Law Association
-                      </Link>
+                      </a>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/contact">
-                        Contact
-                      </Link>
+                      <a className="navbar-item" href="http://www.shiparrested.com">
+                        ShipArrested.com
+                      </a>
                     </li>
+                    <li>
+                      <a className="navbar-item" href="http://www.comitemaritime.org/">
+                        Comite Maritime International
+                      </a>
+                    </li>
+                    <li>
+                      <a className="navbar-item" href="http://www.igpandi.org/">
+                        International Group of P&I Clubs
+                      </a>
+                    </li>
+
                   </ul>
                 </section>
               </div>
