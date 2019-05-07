@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Ship Arrest in Romania
 date: 2019-05-07T07:37:48.292Z
 description: Update 2017
-featuredpost: true
+featuredpost: false
 featuredimage: /img/shiparrest.jpg
 ---
 1. Please give an overview of ship arrest practice in your country. Conditions imposed by Romanian law:
