@@ -4,7 +4,7 @@ title: Shipping In Romanian Jurisdiction
 date: 2019-05-07T07:27:34.963Z
 description: Shipping in Romanian jurisdiction
 featuredpost: true
-featuredimage: /img/blog-index.jpg
+featuredimage: /img/shipping.jpg
 ---
 1. Shipping regulations in general in Romania
 
