@@ -101,6 +101,6 @@ export default () => (
         }
       }
     `}
-    render={(data, count) => <BlogRoll data={data} count=2 />}
+    render={(data, count) => <BlogRoll data={data} count={count} />}
   />
 )
