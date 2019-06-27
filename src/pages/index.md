@@ -7,7 +7,10 @@ subheading: Romania
 mainpitch:
   title: Why Cristea & Partners
   description: >
-    Our firm provides legal advice in the folowing areas of practice: maritime law, transport law, river law, commercial law, insolvency law, civil law, taxation law, energy law, urban law, environment law, labour law. We currently have 3 lawyers working in the firm but we are expanding and recruting inteligent and motivated new lawyers
+    Kaldi is the coffee store for everyone who believes that great coffee
+    shouldn't just taste good, it should do good too. We source all of our beans
+    directly from small scale sustainable farmers and make sure part of the
+    profits are reinvested in their communities.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
