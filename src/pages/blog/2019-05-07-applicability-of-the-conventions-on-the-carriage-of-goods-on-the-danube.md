@@ -2,6 +2,10 @@
 templateKey: blog-post
 title: Applicability of the Conventions on the carriage of goods on the Danube.
 date: 2019-05-01T08:28:46.906Z
+description: 
+featuredpost: true
+tags:
+  - case
 ---
 Bratislava Convention of 26.09.1955 on the General Conditions of Carriage of Goods on the Danube was negotiated and signed by leading companies working in the field of transport on the Danube including the Romanian Navigation Company (Navrom). It was not ratified by the states of the mentioned shipping companies.
 
