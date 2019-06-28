@@ -15,7 +15,7 @@ mainpitch:
 description: ' '
 intro:
   blurbs:
-    - image: /img/lighthouse.jpg
+    - image: /img/maritime1.jpg
       text: |
         maritime law
     - image: /img/transport.jpg
