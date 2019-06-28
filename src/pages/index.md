@@ -12,11 +12,7 @@ mainpitch:
     law, environment law, labour law. We currently have 3 lawyers working in the
     firm but we are expanding and recruting inteligent and motivated new
     lawyers.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: ' '
 intro:
   blurbs:
     - image: /img/lighthouse.jpg
