@@ -2,11 +2,16 @@
 templateKey: index-page
 title: Attorneys at law
 image: /img/books.jpg
-heading: Great coffee with a conscience
+heading: ' '
 subheading: Romania
 mainpitch:
   title: Why Cristea & Partners
-  description: Our firm provides legal advice in maritime law, transport law, river law, commercial law, insolvency law, civil law, taxation law, energy law, urban law, environment law, labour law. We currently have 3 lawyers working in the firm but we are expanding and recruting inteligent and motivated new lawyers.
+  description: >-
+    Our firm provides legal advice in maritime law, transport law, river law,
+    commercial law, insolvency law, civil law, taxation law, energy law, urban
+    law, environment law, labour law. We currently have 3 lawyers working in the
+    firm but we are expanding and recruting inteligent and motivated new
+    lawyers.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -34,11 +39,7 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: ' '
 main:
   heading: Great coffee with no compromises
   description: >
