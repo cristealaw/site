@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Attorneys at law
+title: Maritime Law in Romania
 image: /img/books.jpg
 heading: ' '
-subheading: Romania
+subheading: Cristea and Partners Law Office
 mainpitch:
-  title: Why Cristea & Partners
+  title: About us
   description: >-
     Our firm provides legal advice in maritime law, transport law, river law,
     commercial law, insolvency law, civil law, taxation law, energy law, urban
