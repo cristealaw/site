@@ -4,11 +4,11 @@ title: Lawyers
 ---
 Our firm provides legal advice in the folowing areas of practice: maritime law, transport law, river law, commercial law, insolvency law, civil law, taxation law, energy law, urban law, environment law, labour law. We currently have 3 lawyers working in the firm, one Managing Partner and two Senior Partners but we are expanding and recruting inteligent and motivated new lawyers.
 
-<a href="#adriancristea">Adrian Cristea – Managing Partner</a>
+<a href="#adriancristea"><b>Adrian Cristea – Managing Partner</b></a>
 
-Mariana Cristea – Senior Partner
+<a href="#marianacristea"><b>Mariana Cristea – Senior Partner</b></a>
 
-Ciprian Cristea – Senior Partner
+<a href="#cipriancristea"><b>Ciprian Cristea – Senior Partner</b></a>
 
 ----
 
@@ -37,15 +37,12 @@ E-mail: adrian@cristealaw.ro
 ----
 
 
-Mariana Cristea
-Senior Partner
-Born: Sibiu, Romania, December 28, 1959
-
-Education: – Computer Engineering University, Bucharest (1984);
-
-– Law University of Constanta (Law degree, 2002);
-
-– Admitted in the Romanian Bar Association: 2002, Romania;
+<a name="marianacristea"><b>Mariana Cristea</b></a><br>
+Senior Partner<br><br>
+Born: Sibiu, Romania, December 28, 1959<br>
+Education: – Computer Engineering University, Bucharest (1984);<br>
+– Law University of Constanta (Law degree, 2002);<br>
+– Admitted in the Romanian Bar Association: 2002, Romania;<br>
 
 Practice Areas: Maritime Law, Shipping Law, Admiralty Law, Commercial Law, Civil Law, Transport Law, Litigation and Arbitration, Privatisation, Environment Law, Competition Law, Taxation Law, Labour Law, Insolvency Law;
 
