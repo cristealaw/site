@@ -2,9 +2,9 @@ var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {
-    title: 'Cristea & Partners Law office',
+    title: 'Cristea and Partners Law office',
     description:
-      'Practice Areas: Maritime Law, Admiralty Law, Shipping Law, Commercial Law, Civil Law, Transport Law, Litigation and Arbitration',
+      'Practice Areas: Maritime Law in Romania, Admiralty Law in Romania, Shipping Law in Romania, Commercial Law, Civil Law, Transport Law in Romania, Litigation and Arbitration',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
