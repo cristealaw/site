@@ -42,21 +42,21 @@ Senior Partner<br><br>
 Born: Sibiu, Romania, December 28, 1959<br>
 Education: – Computer Engineering University, Bucharest (1984);<br>
 – Law University of Constanta (Law degree, 2002);<br>
-– Admitted in the Romanian Bar Association: 2002, Romania;<br>
+– Admitted in the Romanian Bar Association: 2002, Romania;<br><br>
 
-Practice Areas: Maritime Law, Shipping Law, Admiralty Law, Commercial Law, Civil Law, Transport Law, Litigation and Arbitration, Privatisation, Environment Law, Competition Law, Taxation Law, Labour Law, Insolvency Law;
+Practice Areas: Maritime Law, Shipping Law, Admiralty Law, Commercial Law, Civil Law, Transport Law, Litigation and<br> Arbitration, Privatisation, Environment Law, Competition Law, Taxation Law, Labour Law, Insolvency Law;<br><br>
 
-Member of the ShipArrested.com Network
+Member of the ShipArrested.com Network<br><br>
 
-Member of the National Association of Insolvency Practitioners of Romania
+Member of the National Association of Insolvency Practitioners of Romania<br><br>
 
-Industrial Property Advisor;
+Industrial Property Advisor;<br><br>
 
-Languages: English
+Languages: English<br><br>
 
-Contact:
+Contact:<br><br>
 
-Mobile: +40 745 02 10 59
+Mobile: +40-745-021-059<br>
 E-mail: mariana@cristealaw.ro
 
 ----
