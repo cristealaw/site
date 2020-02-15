@@ -42,7 +42,7 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Cristea & Partners Law Office" />
+              <img src={logo} alt="Cristea and Partners Law Office" />
             </Link>
             {/* Hamburger menu */}
             <div
@@ -66,7 +66,7 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/lawyers">
                 Lawyers
               </Link>
-              <Link className="navbar-item" to="/practice-areas">
+              <Link className="navbar-item" to="/practice-areas-maritime-law-in-romania">
                 Practice Areas
               </Link>
               <Link className="navbar-item" to="/blog">
