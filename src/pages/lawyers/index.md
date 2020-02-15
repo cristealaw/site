@@ -12,7 +12,7 @@ Ciprian Cristea – Senior Partner
 
 ----
 
-<a name="identifier"><b>Adrian Cristea</b></a><br>
+<a name="adriancristea"><b>Adrian Cristea</b></a><br>
 Managing Partner<br><br>
 Born: Medgidia, Romania, June 25, 1961 <br> 
 Education: – Merchant Marine University, Constanta (1984);<br>
