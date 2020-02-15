@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: Maritime Law
+title: Maritime Law in Romania
 ---
 Our Law Office has a long tradition regarding matters relating to maritime law in Romania and shipping law in Romania, giving legal advice to different parties involved in international shipping. Most of the times we represent the interests of shipowners, shippers or consignees, container carriers or P & I Clubs. 	The firm was established in 1999 and offers a full range of legal services. The firm has close cooperation relationship with law firms in Italy, England, Germany, Norway and United States of America. 
 
