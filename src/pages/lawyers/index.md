@@ -29,9 +29,9 @@ Arbitrator of the Romanian Chamber of Commerce and Industry Arbitration Committe
 
 Languages: English<br><br>
 
-Contact:
+Contact:<br>
 
-Mobile: +40-744-518-583
+Mobile: +40-744-518-583<br>
 E-mail: adrian@cristealaw.ro
 
 ----
@@ -54,7 +54,7 @@ Industrial Property Advisor;<br><br>
 
 Languages: English<br><br>
 
-Contact:<br><br>
+Contact:<br>
 
 Mobile: +40-745-021-059<br>
 E-mail: mariana@cristealaw.ro
