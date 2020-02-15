@@ -9,9 +9,9 @@ Our firm provides legal advice in the folowing areas of practice: maritime law, 
 <a href="#marianacristea"><b>Mariana Cristea – Senior Partner</b></a>
 
 <a href="#cipriancristea"><b>Ciprian Cristea – Senior Partner</b></a>
-
-----
 <a name="adriancristea"></a>
+----
+
 <b>Adrian Cristea</b><br>
 Managing Partner<br><br>
 Born: Medgidia, Romania, June 25, 1961 <br> 
