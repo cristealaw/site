@@ -33,11 +33,11 @@ Contact:<br>
 
 Mobile: +40-744-518-583<br>
 E-mail: adrian@cristealaw.ro
-
+<a name="marianacristea"></a>
 ----
 
 
-<a name="marianacristea"><b>Mariana Cristea</b></a><br>
+<b>Mariana Cristea</b><br>
 Senior Partner<br><br>
 Born: Sibiu, Romania, December 28, 1959<br>
 Education: – Computer Engineering University, Bucharest (1984);<br>
@@ -58,29 +58,23 @@ Contact:<br>
 
 Mobile: +40-745-021-059<br>
 E-mail: mariana@cristealaw.ro
-
+<a name="cipriancristea"></a>
 ----
 
 
-Ciprian Cristea
-Senior Partner
-Born: Constanta, Romania, September 7, 1988 
+<b>Ciprian Cristea</b><br>
+Senior Partner<br><br>
+Born: Constanta, Romania, September 7, 1988<br> 
+Education: – Law University of Bucharest (Law degree, 2011);<br>
+– Master’s Degree in Business Law – Law University of Bucharest;<br>
+– Admitted in the Romanian Bar Association: 2011, Bucharest, Romania;<br><br>
 
-Education: – Law University of Bucharest (Law degree, 2011);
+Practice Areas: Maritime Law, Shipping Law, Admiralty Law, Commercial Law, Litigation and Arbitration, Bankruptcy and<br> Liquidation, Privatisation, Competition Law, Taxation Law, Energy Law, Fiscal and Financial Law;<br><br>
 
-– Master’s Degree in Business Law – Law University of Bucharest;
+Member of the ShipArrested.com Network<br><br>
 
-– PhD (c) – Doctoral School of the Bucharest University;
+Languages: English<br><br>
 
-– Admitted in the Romanian Bar Association: 2011, Bucharest, Romania;
-
-Practice Areas: Maritime Law, Shipping Law, Admiralty Law, Commercial Law, Litigation and Arbitration, Bankruptcy and Liquidation, Privatisation, Competition Law, Taxation Law, Energy Law, Fiscal and Financial Law;
-
-Member of the ShipArrested.com Network
-
-Languages: English
-
-Contact:
-
-Mobile: +40 744 10 40 54
+Contact:<br>
+Mobile: +40-744-104-054<br>
 E-mail: ciprian@cristealaw.ro
