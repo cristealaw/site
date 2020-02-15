@@ -4,8 +4,7 @@ title: Lawyers
 ---
 Our firm provides legal advice in the folowing areas of practice: maritime law, transport law, river law, commercial law, insolvency law, civil law, taxation law, energy law, urban law, environment law, labour law. We currently have 3 lawyers working in the firm, one Managing Partner and two Senior Partners but we are expanding and recruting inteligent and motivated new lawyers.
 
- 
-Adrian Cristea – Managing Partner
+<a href="#adriancristea">Adrian Cristea – Managing Partner</a>
 
 Mariana Cristea – Senior Partner
 
@@ -13,30 +12,26 @@ Ciprian Cristea – Senior Partner
 
 ----
 
-Adrian Cristea
-Managing Partner
-Born: Medgidia, Romania, June 25,1961 
- 
+<a name="identifier"><b>Adrian Cristea</b></a><br>
+Managing Partner<br><br>
+Born: Medgidia, Romania, June 25, 1961 <br> 
+Education: – Merchant Marine University, Constanta (1984);<br>
+– Law University of Bucharest (Law degree, 1994);<br>
+– Admitted in the Romanian Bar Association: 1996, Romania;<br><br>
 
-Education: – Merchant Marine University, Constanta (1984);
+Practice Areas: Maritime Law, Shipping Law, Admiralty Law, Commercial Law, Litigation and Arbitration, Bankruptcy and<br> Liquidation, Privatisation, Competition Law, Taxation Law, Energy Law, Fiscal and Financial Law;<br><br>
 
-– Law University of Bucharest (Law degree, 1994);
+Member of the ShipArrested.com Network<br><br>
 
-– Admitted in the Romanian Bar Association: 1996, Romania;
+Member of the National Union of Insolvency Practitioners of Romania<br><br>
 
-Practice Areas: Maritime Law, Shipping Law, Admiralty Law, Commercial Law, Litigation and Arbitration, Bankruptcy and Liquidation, Privatisation, Competition Law, Taxation Law, Energy Law, Fiscal and Financial Law;
+Arbitrator of the Romanian Chamber of Commerce and Industry Arbitration Committee<br><br>
 
-Member of the ShipArrested.com Network
-
-Member of the National Union of Insolvency Practitioners of Romania
-
-Arbitrator of the Romanian Chamber of Commerce and Industry Arbitration Committee
-
-Languages: English
+Languages: English<br><br>
 
 Contact:
 
-Mobile: +40 744 51 85 83
+Mobile: +40-744-518-583
 E-mail: adrian@cristealaw.ro
 
 ----
