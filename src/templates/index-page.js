@@ -89,7 +89,7 @@ export const IndexPageTemplate = ({
                 <Features gridItems={intro.blurbs} />
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/practice-areas">
+                    <Link className="btn" to="/practice-areas-maritime-law-in-romania">
                       All our practice areas
                     </Link>
                   </div>
