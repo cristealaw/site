@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Maritime Law in Romania
-image: /img/books1.jpg
+image: /img/books.jpg
 heading: ' '
 subheading: Cristea and Partners Law Office
 mainpitch:
