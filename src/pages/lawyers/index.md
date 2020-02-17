@@ -9,13 +9,13 @@ Our firm provides legal advice in the folowing areas of practice: maritime law, 
 <a href="#marianacristea"><b>Mariana Cristea – Senior Partner</b></a>
 
 <a href="#cipriancristea"><b>Ciprian Cristea – Senior Partner</b></a>
-<br><a name="adriancristea"></a>
+<a name="adriancristea"></a><br>
 
 
 ----
 
 <b>Adrian Cristea</b><br>
-Managing Partner <img src="/src/img/18.jpg"><br><br>
+Managing Partner <img src="https://raw.githubusercontent.com/cristealaw/site/master/src/img/18.jpg"><br><br>
 Born: Medgidia, Romania, June 25, 1961 <br> 
 Education: – Merchant Marine University, Constanta (1984);<br>
 – Law University of Bucharest (Law degree, 1994);<br>
