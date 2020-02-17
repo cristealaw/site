@@ -1,8 +1,8 @@
 ---
 templateKey: about-page
-<img src="https://raw.githubusercontent.com/cristealaw/site/master/src/img/1n-300x200.jpg" allign=right>
 title: Maritime Law in Romania
 ---
+<img src="https://raw.githubusercontent.com/cristealaw/site/master/src/img/1n-300x200.jpg" allign=right>
 Our Law Office has a long tradition regarding matters relating to maritime law in Romania and shipping law in Romania, giving legal advice to different parties involved in international shipping. Most of the times we represent the interests of shipowners, shippers or consignees, container carriers or P & I Clubs. 	The firm was established in 1999 and offers a full range of legal services. The firm has close cooperation relationship with law firms in Italy, England, Germany, Norway and United States of America. 
 
 <b>Damages to goods carried in shipping containers. Litigious cases related to receipt of goods carried in shipping containers</b>	
