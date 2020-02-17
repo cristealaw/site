@@ -13,7 +13,7 @@ Our firm provides legal advice in the folowing areas of practice: maritime law, 
 
 
 ----
-<img src="https://raw.githubusercontent.com/cristealaw/site/master/src/img/18.jpg">
+<img src="https://raw.githubusercontent.com/cristealaw/site/master/src/img/18.jpg"><br>
 <b>Adrian Cristea</b><br>
 Managing Partner <br><br>
 Born: Medgidia, Romania, June 25, 1961 <br> 
@@ -35,7 +35,8 @@ Contact:<br>
 
 Mobile: +40-744-518-583<br>
 E-mail: adrian@cristealaw.ro
-<a name="marianacristea"></a>
+
+<a name="marianacristea"></a><br><br>
 ----
 
 
