@@ -35,11 +35,10 @@ Contact:<br>
 
 Mobile: +40-744-518-583<br>
 E-mail: adrian@cristealaw.ro
-
 <a name="marianacristea"></a><br><br>
 ----
 
-
+<img src="https://raw.githubusercontent.com/cristealaw/site/master/src/img/2.jpg"><br>
 <b>Mariana Cristea</b><br>
 Senior Partner<br><br>
 Born: Sibiu, Romania, December 28, 1959<br>
@@ -61,10 +60,10 @@ Contact:<br>
 
 Mobile: +40-745-021-059<br>
 E-mail: mariana@cristealaw.ro
-<a name="cipriancristea"></a>
+<a name="cipriancristea"></a><br><br>
 ----
 
-
+<img src="https://raw.githubusercontent.com/cristealaw/site/master/src/img/4.jpg"><br>
 <b>Ciprian Cristea</b><br>
 Senior Partner<br><br>
 Born: Constanta, Romania, September 7, 1988<br> 
