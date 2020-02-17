@@ -15,7 +15,7 @@ Our firm provides legal advice in the folowing areas of practice: maritime law, 
 ----
 
 <b>Adrian Cristea</b><br>
-Managing Partner<br><br>
+Managing Partner <img src="/src/img/18.jpg"><br><br>
 Born: Medgidia, Romania, June 25, 1961 <br> 
 Education: – Merchant Marine University, Constanta (1984);<br>
 – Law University of Bucharest (Law degree, 1994);<br>
