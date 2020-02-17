@@ -33,8 +33,8 @@ Languages: English<br><br>
 
 Contact:<br>
 
-Mobile: +40-744-518-583<br>
-E-mail: adrian@cristealaw.ro
+<b>Mobile:</b> +40-744-518-583<br>
+<b>E-mail:</b> adrian@cristealaw.ro
 <a name="marianacristea"></a><br><br>
 ----
 
@@ -58,8 +58,8 @@ Languages: English<br><br>
 
 Contact:<br>
 
-Mobile: +40-745-021-059<br>
-E-mail: mariana@cristealaw.ro
+<b>Mobile:</b> +40-745-021-059<br>
+<b>E-mail:</b> mariana@cristealaw.ro
 <a name="cipriancristea"></a><br><br>
 ----
 
@@ -78,5 +78,5 @@ Member of the ShipArrested.com Network<br><br>
 Languages: English<br><br>
 
 Contact:<br>
-Mobile: +40-744-104-054<br>
-E-mail: ciprian@cristealaw.ro
+<b>Mobile:</b> +40-744-104-054<br>
+<b>E-mail:</b> ciprian@cristealaw.ro
