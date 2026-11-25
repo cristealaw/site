@@ -13,7 +13,7 @@ Our firm provides legal advice in the folowing areas of practice: maritime law, 
 
 
 ----
-<img src="https://raw.githubusercontent.com/cristealaw/site/master/src/img/18.jpg"><br>
+<img src="https://raw.githubusercontent.com/cristealaw/site/master/src/img/18.jpg" width="350"><br>
 <b>Adrian Cristea</b><br>
 Managing Partner <br><br>
 Born: Medgidia, Romania, June 25, 1961 <br> 
